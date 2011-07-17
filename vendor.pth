@@ -1,2 +1,3 @@
 src/django-debug-toolbar
 src/cache-panel
+src/werkzeug

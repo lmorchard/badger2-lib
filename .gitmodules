@@ -7,3 +7,6 @@
 [submodule "src/werkzeug"]
 	path = src/werkzeug
 	url = git://github.com/mitsuhiko/werkzeug.git
+[submodule "src/jingo"]
+	path = src/jingo
+	url = https://github.com/jbalogh/jingo.git

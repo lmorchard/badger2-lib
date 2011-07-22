@@ -10,3 +10,6 @@
 [submodule "src/jingo"]
 	path = src/jingo
 	url = https://github.com/jbalogh/jingo.git
+[submodule "src/django-badger"]
+	path = src/django-badger
+	url = git://github.com/lmorchard/django-badger.git

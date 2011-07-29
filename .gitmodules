@@ -13,3 +13,6 @@
 [submodule "src/django-badger"]
 	path = src/django-badger
 	url = git://github.com/lmorchard/django-badger.git
+[submodule "src/django-extensions"]
+	path = src/django-extensions
+	url = git://github.com/django-extensions/django-extensions.git

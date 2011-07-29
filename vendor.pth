@@ -3,3 +3,4 @@ src/cache-panel
 src/werkzeug
 src/jingo
 src/django-badger
+src/django-extensions

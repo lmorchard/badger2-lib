@@ -18,4 +18,4 @@
 	url = git://github.com/django-extensions/django-extensions.git
 [submodule "src/django-browserid"]
 	path = src/django-browserid
-	url = git://github.com/mozilla/django-browserid.git
+	url = git://github.com/lmorchard/django-browserid.git
